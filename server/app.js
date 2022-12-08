@@ -11,7 +11,7 @@ const serviceAccount = require('./serviceAccountKey.json');
 
 admin.initializeApp({
 	credential: admin.credential.cert(serviceAccount),
-	databaseURL: 'https://generation-game-restaurant-default-rtdb.firebaseio.com',
+	databaseURL: 'https://griddle-kitchen-default-rtdb.firebaseio.com',
 });
 
 // firebase database object

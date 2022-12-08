@@ -2,3 +2,4 @@ node_modules/
 environments/
 .env
 .angular/
+serviceAccountKey.json

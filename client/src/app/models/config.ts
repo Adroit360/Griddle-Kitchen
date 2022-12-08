@@ -1,1 +1,1 @@
-export const apiUrl = 'https://homehut.azurewebsites.net';
+export const apiUrl = 'https://griddle-kitchen-api.azurewebsites.net';

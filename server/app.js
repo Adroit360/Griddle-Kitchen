@@ -85,7 +85,7 @@ app.post('/paystack/event', async function (req, res) {
 				await axios.post(
 					'https://us-central1-delivery-system-adroit.cloudfunctions.net/postOrderToDeliverySystem',
 					{
-						sellerName: 'Home Hut',
+						sellerName: 'Griddle Kitchen',
 						orderDetails: order.data(),
 					}
 				);

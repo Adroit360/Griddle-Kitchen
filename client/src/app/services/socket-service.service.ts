@@ -16,7 +16,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf600',
 			body: 'Assorted Jollof',
-			image: '',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menuImages/assortedJollof.jpeg',
 			alt: 'Assorted Jollof',
 			price: '100.00',
 			category: 'Jollof Combos',
@@ -24,7 +25,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf601',
 			body: 'Jollof, Charcoal Grilled Chicken And Kelewele',
-			image: '',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menuImages/jollofwithgrilledchickenandkelewele.jpeg',
 			alt: 'Jollof, Charcoal Grilled Chicken And Kelewele',
 			price: '65.00',
 			category: 'Jollof Combos',
@@ -32,7 +34,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf602',
 			body: 'Jollof Rice With Grilled Chicken',
-			image: '',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menuImages/JollofwithCharcoalgrilledchicken.jpeg',
 			alt: 'Jollof Rice With Grilled Chicken',
 			price: '60.00',
 			category: 'Jollof Combos',
@@ -40,7 +43,7 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf603',
 			body: 'Jollof Rice With Gizzard',
-			image: '',
+			image: '../../assets/assortedJollof.jpeg',
 			alt: 'Jollof Rice With Gizzard',
 			price: '65.00',
 			category: 'Jollof Combos',

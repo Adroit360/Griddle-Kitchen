@@ -1,0 +1,4 @@
+{
+	"appService.defaultWebAppToDeploy": "/subscriptions/e6a2523d-c438-4ca0-8117-9c15221c3e7c/AppServices/subscriptions/e6a2523d-c438-4ca0-8117-9c15221c3e7c/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/griddle-kitchen-api",
+	"appService.deploySubpath": "server"
+}

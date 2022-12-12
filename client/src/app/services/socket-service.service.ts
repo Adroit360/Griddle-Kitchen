@@ -17,7 +17,7 @@ export class SocketService {
 			id: '91fcca31cba046fea468af2c659bcf600',
 			body: 'Assorted Jollof',
 			image:
-				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menuImages/assortedJollof.jpeg',
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/assortedJollof.jpeg',
 			alt: 'Assorted Jollof',
 			price: '100.00',
 			category: 'Jollof Combos',
@@ -26,7 +26,7 @@ export class SocketService {
 			id: '91fcca31cba046fea468af2c659bcf601',
 			body: 'Jollof, Charcoal Grilled Chicken And Kelewele',
 			image:
-				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menuImages/jollofwithgrilledchickenandkelewele.jpeg',
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/jollofwithgrilledchickenandkelewele.jpeg',
 			alt: 'Jollof, Charcoal Grilled Chicken And Kelewele',
 			price: '65.00',
 			category: 'Jollof Combos',
@@ -35,7 +35,7 @@ export class SocketService {
 			id: '91fcca31cba046fea468af2c659bcf602',
 			body: 'Jollof Rice With Grilled Chicken',
 			image:
-				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menuImages/JollofwithCharcoalgrilledchicken.jpeg',
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/JollofwithCharcoalgrilledchicken.jpeg',
 			alt: 'Jollof Rice With Grilled Chicken',
 			price: '60.00',
 			category: 'Jollof Combos',
@@ -43,7 +43,7 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf603',
 			body: 'Jollof Rice With Gizzard',
-			image: '../../assets/assortedJollof.jpeg',
+			image: '',
 			alt: 'Jollof Rice With Gizzard',
 			price: '65.00',
 			category: 'Jollof Combos',
@@ -59,7 +59,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf605',
 			body: 'Jollof Rice With Grilled Pork',
-			image: '',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/JollofwithPork.jpeg',
 			alt: 'Jollof Rice With Grilled Pork',
 			price: '65.00',
 			category: 'Jollof Combos',
@@ -67,7 +68,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf606',
 			body: 'Jollof With Tsofi',
-			image: '',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/JollofwithTsofi.jpeg',
 			alt: 'Jollof With Tsofi',
 			price: '65.00',
 			category: 'Jollof Combos',
@@ -75,7 +77,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf607',
 			body: 'Jollof Rice With Suya Goat Chops',
-			image: '',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/Jollofwithsuya%20goatchops.jpeg',
 			alt: 'Jollof Rice With Suya Goat Chops',
 			price: '65.00',
 			category: 'Jollof Combos',
@@ -91,7 +94,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf609',
 			body: 'Beef Jollof',
-			image: '',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/Beefjollof.jpeg',
 			alt: 'Beef Jollof',
 			price: '70.00',
 			category: 'Jollof Combos',
@@ -107,7 +111,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf611',
 			body: 'Shrimp Fried Rice',
-			image: '',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/Shrimpfriedrice.jpeg',
 			alt: 'Shrimp Fried Rice',
 			price: '100.00',
 			category: 'Fried Rice Combo',
@@ -123,7 +128,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf613',
 			body: 'Assorted Meat Fried Rice',
-			image: '',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/assortedMeatFriedrice.jpeg',
 			alt: 'Assorted Meat Fried Rice',
 			price: '85.00',
 			category: 'Fried Rice Combo',
@@ -131,7 +137,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf614',
 			body: 'Fried Rice And Chicken Wings',
-			image: '',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/Friedricewithchickenwings.jpeg',
 			alt: 'Fried Rice And Chicken Wings',
 			price: '65.00',
 			category: 'Fried Rice Combo',
@@ -155,7 +162,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf617',
 			body: 'Fried Rice With Chicken',
-			image: '',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/Friedricewithchickenwings.jpeg',
 			alt: 'Fried Rice With Chicken',
 			price: '60.00',
 			category: 'Fried Rice Combo',
@@ -179,7 +187,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf620',
 			body: 'Yam Chips With Tsofi',
-			image: '',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/YamchipswithTsofi.jpeg',
 			alt: 'Yam Chips With Tsofi',
 			price: '65.00',
 			category: 'Yam Chips Combo',
@@ -187,7 +196,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf621',
 			body: 'Yam Chips With Suya Goat Chops',
-			image: '',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/YamchipswithGoatchops.jpeg',
 			alt: 'Yam Chips With Suya Goat Chops',
 			price: '65.00',
 			category: 'Yam Chips Combo',
@@ -258,17 +268,18 @@ export class SocketService {
 		},
 		{
 			id: '91fcca31cba046fea468af2c659bcf630',
-			body: 'Angamo With Fried Egg, Sardine, Sausage',
+			body: 'Angwamo With Fried Egg, Sardine, Sausage',
 			image: '',
-			alt: 'Angamo With Fried Egg, Sardine, Sausage',
+			alt: 'Angwamo With Fried Egg, Sardine, Sausage',
 			price: '65.00',
 			category: 'Other Rice Dishes',
 		},
 		{
 			id: '91fcca31cba046fea468af2c659bcf631',
-			body: 'Angamo Fully Loaded',
-			image: '',
-			alt: 'Angamo Fully Loaded',
+			body: 'Angwamo Fully Loaded',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/Angwamo%20loaded.jpeg',
+			alt: 'Angwamo Fully Loaded',
 			price: '100.00',
 			category: 'Other Rice Dishes',
 		},
@@ -321,7 +332,7 @@ export class SocketService {
 			category: 'Kenkey Corner',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf637',
+			id: '91fcca31cba046fea468af2c659bcf680',
 			body: 'Kenkey With Grilled Chicken',
 			image: '',
 			alt: 'Kenkey With Grilled Chicken',
@@ -337,7 +348,7 @@ export class SocketService {
 			category: 'kenkey Corner',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf639',
 			body: 'Banku With Tilapia',
 			image: '',
 			alt: 'Banku With Tilapia',
@@ -345,7 +356,7 @@ export class SocketService {
 			category: 'Banku Combo',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf640',
 			body: 'Banku With Assorted Meat Okro Soup',
 			image: '',
 			alt: 'Banku With Assorted Meat Okro Soup',
@@ -353,7 +364,7 @@ export class SocketService {
 			category: 'Banku Combo',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf641',
 			body: 'Banku with Fried Fish & Fried Egg',
 			image: '',
 			alt: 'Banku with Fried Fish & Fried Egg',
@@ -361,7 +372,7 @@ export class SocketService {
 			category: 'Banku Combo',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf642',
 			body: 'Banku With Tsofi (Turkey Tails), Fried Egg & Fried Fish',
 			image: '',
 			alt: 'Banku With Tsofi (Turkey Tails), Fried Egg & Fried Fish',
@@ -369,7 +380,7 @@ export class SocketService {
 			category: 'Banku Combo',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf643',
 			body: 'Banku With Fried  Eggs, Calamari, Shrimps, Fried Fish & Avocados',
 			image: '',
 			alt: 'Banku With Fried  Eggs, Calamari, Shrimps, Fried Fish & Avocados',
@@ -377,7 +388,7 @@ export class SocketService {
 			category: 'Banku Combo',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf644',
 			body: 'Banku With Shrimps, Calamari & Grilled Pork',
 			image: '',
 			alt: 'Banku With Shrimps, Calamari & Grilled Pork',
@@ -385,7 +396,7 @@ export class SocketService {
 			category: 'Banku Combo',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf645',
 			body: 'Banku With Grilled Pork',
 			image: '',
 			alt: 'Banku With Grilled Pork',
@@ -393,7 +404,7 @@ export class SocketService {
 			category: 'Banku Combo',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf646',
 			body: 'Indomie Basic ( Chicken, Sausages, Gizzard, Veggies)',
 			image: '',
 			alt: 'Indomie Basic ( Chicken, Sausages, Gizzard, Veggies)',
@@ -401,7 +412,7 @@ export class SocketService {
 			category: 'Ghanaian Style',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf647',
 			body: 'Indomie Loaded ( Chicken, Gizzard, Beef Pieces, Eggs, Sausages )',
 			image: '',
 			alt: 'Indomie Loaded ( Chicken, Gizzard, Beef Pieces, Eggs, Sausages )',
@@ -409,15 +420,16 @@ export class SocketService {
 			category: 'Ghanaian Style',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf648',
 			body: 'Indomie Epic ( Shrimps, Beef Pieces, Chicken, Eggs, Gizzard, Sausages, Sardines, Veggies )',
-			image: '',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/Indomieepic.jpeg',
 			alt: 'Indomie Epic ( Shrimps, Beef Pieces, Chicken, Eggs, Gizzard, Sausages, Sardines, Veggies )',
 			price: '85.00',
 			category: 'Ghanaian Style',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf649',
 			body: 'Check Check Basic ( Fried Rice With Fried Chicken Salad )',
 			image: '',
 			alt: 'Check Check Basic ( Fried Rice With Fried Chicken Salad )',
@@ -425,7 +437,7 @@ export class SocketService {
 			category: 'Ghanaian Style',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf650',
 			body: 'Check Check Loaded [ Beef Fried Rice With Fried Chicken & Salad ]',
 			image: '',
 			alt: ' Check Check Loaded [ Beef Fried Rice With Fried Chicken & Salad ]',
@@ -433,7 +445,7 @@ export class SocketService {
 			category: 'Ghanaian Style',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf651',
 			body: 'Waakye Basic ( Fish/ Meat, Wele, Egg, Gari, Spagetti, Stew)',
 			image: '',
 			alt: 'Waakye Basic ( Fish/ Meat, Wele, Egg, Gari, Spagetti, Stew)',
@@ -441,7 +453,7 @@ export class SocketService {
 			category: 'Ghanaian Style',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf652',
 			body: 'Waakye Loaded ( Fish, Eggs, Beef Stew, Wele, Gari, Spagetti, Stew )',
 			image: '',
 			alt: 'Waakye Loaded ( Fish, Eggs, Beef Stew, Wele, Gari, Spagetti, Stew )',
@@ -449,7 +461,7 @@ export class SocketService {
 			category: 'Ghanaian Style',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf653',
 			body: 'Red Red Basic Egg',
 			image: '',
 			alt: 'Red Red Basic Egg',
@@ -457,7 +469,7 @@ export class SocketService {
 			category: 'Ghanaian Style',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf654',
 			body: 'Red Red Basic FIsh',
 			image: '',
 			alt: 'Red Red Basic FIsh',
@@ -465,7 +477,7 @@ export class SocketService {
 			category: 'Ghanaian Style',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf655',
 			body: 'Red Red Loaded Egg & Fish Chicken',
 			image: '',
 			alt: 'Red Red Loaded Egg & Fish Chicken',
@@ -473,7 +485,7 @@ export class SocketService {
 			category: 'Ghanaian Style',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf656',
 			body: 'Red Red Loaded Egg & Fish Meat Pieces',
 			image: '',
 			alt: 'Red Red Loaded Egg & Fish Meat Pieces',
@@ -481,7 +493,7 @@ export class SocketService {
 			category: 'Ghanaian Style',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf657',
 			body: 'Potato Chips',
 			image: '',
 			alt: 'Potato Chips',
@@ -489,7 +501,7 @@ export class SocketService {
 			category: 'Extras And Sides',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf658',
 			body: 'Yam Chips Only',
 			image: '',
 			alt: 'Yam Chips Only',
@@ -497,7 +509,7 @@ export class SocketService {
 			category: 'Extras And Sides',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf659',
 			body: '(1 Portion) Tsofi Only',
 			image: '',
 			alt: '(1 Portion) Tsofi Only',
@@ -505,7 +517,7 @@ export class SocketService {
 			category: 'Extras And SIdes',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf660',
 			body: 'Kelewele Only',
 			image: '',
 			alt: 'Kelewele Only',
@@ -513,7 +525,7 @@ export class SocketService {
 			category: 'Extras And Sides',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf661',
 			body: '1 Piece Grilled Chicken',
 			image: '',
 			alt: '1 Piece Grilled Chicken',
@@ -521,7 +533,7 @@ export class SocketService {
 			category: 'Extras And SIdes',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf662',
 			body: 'Calamari Only',
 			image: '',
 			alt: 'Calamari Only',
@@ -529,7 +541,7 @@ export class SocketService {
 			category: 'Extras And Sides',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf663',
 			body: '1 Portion Shrimp',
 			image: '',
 			alt: '1 Portion Shrimp',
@@ -537,7 +549,7 @@ export class SocketService {
 			category: ' Extras And SIdes',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf664',
 			body: 'Suya/Kpakpo Snail',
 			image: '',
 			alt: 'Suya/Kpakpo Snail',
@@ -545,7 +557,7 @@ export class SocketService {
 			category: 'Extras And Sides',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf665',
 			body: 'Banku Only',
 			image: '',
 			alt: 'Banku Only',
@@ -553,7 +565,7 @@ export class SocketService {
 			category: 'Extras And Sides',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf666',
 			body: 'Plain Rice Only',
 			image: '',
 			alt: 'Plain Rice Only',
@@ -561,7 +573,7 @@ export class SocketService {
 			category: 'Extras And Sides',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf667',
 			body: 'Jollof Only',
 			image: '',
 			alt: 'Jollof Only',
@@ -569,7 +581,7 @@ export class SocketService {
 			category: 'Extras And Sides',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf668',
 			body: 'Waakye Only',
 			image: '',
 			alt: 'Waakye Only',
@@ -577,7 +589,7 @@ export class SocketService {
 			category: 'Extras And Sides',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf669',
 			body: 'Fried Rice Only',
 			image: '',
 			alt: 'Fried Rice Only',
@@ -585,7 +597,7 @@ export class SocketService {
 			category: 'Extras And Sides',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf670',
 			body: '(1 Portion) Pork Only',
 			image: '',
 			alt: '(1 Portion) Pork Only',
@@ -593,7 +605,7 @@ export class SocketService {
 			category: 'Extras And Sides',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf671',
 			body: '(1 Portion) Suya Goat Only',
 			image: '',
 			alt: '(1 Portion) Suya Goat Only',
@@ -601,7 +613,7 @@ export class SocketService {
 			category: 'Extras And Sides',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf672',
 			body: 'Fish Kebab (1)',
 			image: '',
 			alt: 'Fish Kebab (1)',
@@ -609,7 +621,7 @@ export class SocketService {
 			category: 'Extras And Sides',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf673',
 			body: 'Beef Kebab (1)',
 			image: '',
 			alt: 'Beef Kebab (1)',
@@ -617,7 +629,7 @@ export class SocketService {
 			category: 'Extras And Sides',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf674',
 			body: 'Chicken Kebab(1) Only',
 			image: '',
 			alt: 'Chicken Kebab(1) Only',
@@ -625,7 +637,7 @@ export class SocketService {
 			category: 'Extras And Sides',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf638',
+			id: '91fcca31cba046fea468af2c659bcf675',
 			body: 'Goat Kebab (1)',
 			image: '',
 			alt: 'Goat Kebab (1)',

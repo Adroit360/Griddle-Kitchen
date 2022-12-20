@@ -3,3 +3,4 @@ environments/
 .env
 .angular/
 serviceAccountKey.json
+dist/

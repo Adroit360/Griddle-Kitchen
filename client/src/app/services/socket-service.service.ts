@@ -374,7 +374,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf639',
 			body: 'Banku With Tilapia',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/bankuwithTilapia.jpeg',
 			alt: 'Banku With Tilapia',
 			price: '85.00',
 			category: 'Banku Combo',

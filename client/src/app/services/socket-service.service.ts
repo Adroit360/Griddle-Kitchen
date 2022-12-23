@@ -529,7 +529,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf658',
 			body: 'Yam Chips Only',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/Yamchips.jpeg',
 			alt: 'Yam Chips Only',
 			price: '28.00',
 			category: 'Extras And Sides',
@@ -556,7 +557,7 @@ export class SocketService {
 			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
 			alt: '1 Piece Grilled Chicken',
 			price: '12.00',
-			category: 'Extras And SIdes',
+			category: 'Extras And Sides',
 		},
 		{
 			id: '91fcca31cba046fea468af2c659bcf662',
@@ -572,7 +573,7 @@ export class SocketService {
 			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
 			alt: '1 Portion Shrimp',
 			price: '120.00',
-			category: ' Extras And SIdes',
+			category: 'Extras And Sides',
 		},
 		{
 			id: '91fcca31cba046fea468af2c659bcf664',

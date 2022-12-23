@@ -63,9 +63,8 @@ export class HomepageComponent implements OnInit {
 		});
 
 		this.filters.push(
-			...this.socketService
-				.onGetCategories()
-				.filter((item: any) => item.toLowerCase() !== 'extras and sides')
+			...this.socketService.onGetCategories()
+			// .filter((item: any) => item.toLowerCase() !== 'extras and sides')
 		);
 
 		this.foodArray = this.socketService.getFoodByCategory(this.category);

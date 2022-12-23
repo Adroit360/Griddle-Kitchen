@@ -342,7 +342,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf636',
 			body: 'Shrimps, Calamari & Grilled Pork',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/shrimpsCalamariAndGrilledPork.jpeg',
 			alt: 'Shrimps, Calamari & Grilled Pork',
 			price: '100.00',
 			category: 'Kenkey Corner',
@@ -415,7 +416,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf644',
 			body: 'Banku With Shrimps, Calamari & Grilled Pork',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/kenekyWithCalamariAndGrilledPork.jpeg',
 			alt: 'Banku With Shrimps, Calamari & Grilled Pork',
 			price: '150.00',
 			category: 'Banku Combo',
@@ -538,7 +540,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf659',
 			body: '(1 Portion) Tsofi Only',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/tsofi.png',
 			alt: '(1 Portion) Tsofi Only',
 			price: '60.00',
 			category: 'Extras And Sides',

@@ -116,7 +116,7 @@ export class SocketService {
 			image:
 				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/Friedricewithbeefsauce.jpeg',
 			alt: 'Jollof with fish kebabs',
-			price: '15.00',
+			price: '85.00',
 			category: 'Jollof Combos',
 		},
 		{
@@ -134,7 +134,7 @@ export class SocketService {
 			image:
 				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/Friedricewithbeefsauce.jpeg',
 			alt: 'Fried rice with beef sauce',
-			price: '15.00',
+			price: '100.00',
 			category: 'Fried Rice Combo',
 		},
 		{
@@ -505,7 +505,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf653',
 			body: 'Red Red Basic Egg',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://images.bolt.eu/store/2021/2021-04-07/2260e099-eb61-4330-99aa-e3b35625ee20.jpeg',
 			alt: 'Red Red Basic Egg',
 			price: '50.00',
 			category: 'Ghanaian Style',

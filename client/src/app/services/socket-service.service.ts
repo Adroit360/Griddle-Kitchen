@@ -427,6 +427,14 @@ export class SocketService {
 			category: 'Banku Combo',
 		},
 		{
+			id: '91fcca31cba046fea468af2c659bcf650',
+			body: 'Check Check Loaded (Beef Fried Rice With Fried Chicken & Salad )',
+			image: 'https://grandeurcatering.com/wp-content/uploads/2022/03/20220312_173742-01.jpg',
+			alt: ' Check Check Loaded (Beef Fried Rice With Fried Chicken & Salad )',
+			price: '65.00',
+			category: 'Ghanaian Style',
+		},
+		{
 			id: '91fcca31cba046fea468af2c659bcf644',
 			body: 'Banku With Shrimps, Calamari & Grilled Pork',
 			image:
@@ -447,7 +455,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf646',
 			body: 'Indomie Basic ( Chicken, Sausages, Gizzard, Veggies)',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://lh6.googleusercontent.com/fkZWA7ghpVbhtOvq5ZdDAeiNl5rLWG2tpoBoCb9Ed8RJ1mgLZBtmbXjDhwSLsxZaaTW7_8rjXQHZa24zMY38FsuYCueCM83psTRn-1wHLCHII8ZNiC7HjCPOgLcx3BR9vLhawckT-uY0ltih8Q',
 			alt: 'Indomie Basic ( Chicken, Sausages, Gizzard, Veggies)',
 			price: '50.00',
 			category: 'Ghanaian Style',
@@ -455,7 +464,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf647',
 			body: 'Indomie Loaded ( Chicken, Gizzard, Beef Pieces, Eggs, Sausages )',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://images.bolt.eu/store/2022/2022-03-23/60046576-3566-4b26-a87d-d4c93eed813e.jpeg',
 			alt: 'Indomie Loaded ( Chicken, Gizzard, Beef Pieces, Eggs, Sausages )',
 			price: '65.00',
 			category: 'Ghanaian Style',
@@ -472,17 +482,9 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf649',
 			body: 'Check Check Basic ( Fried Rice With Fried Chicken Salad )',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image: 'https://grandeurcatering.com/wp-content/uploads/2022/03/20220312_173742-01.jpg',
 			alt: 'Check Check Basic ( Fried Rice With Fried Chicken Salad )',
 			price: '50.00',
-			category: 'Ghanaian Style',
-		},
-		{
-			id: '91fcca31cba046fea468af2c659bcf650',
-			body: 'Check Check Loaded [ Beef Fried Rice With Fried Chicken & Salad ]',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
-			alt: ' Check Check Loaded [ Beef Fried Rice With Fried Chicken & Salad ]',
-			price: '65.00',
 			category: 'Ghanaian Style',
 		},
 		{

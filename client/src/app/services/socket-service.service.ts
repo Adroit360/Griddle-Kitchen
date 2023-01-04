@@ -535,7 +535,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf657',
 			body: 'Potato Chips',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/potatochips.webp',
 			alt: 'Potato Chips',
 			price: '28.00',
 			category: 'Extras And Sides',
@@ -561,7 +562,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf660',
 			body: 'Kelewele Only',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/kelewele.webp',
 			alt: 'Kelewele Only',
 			price: '25.00',
 			category: 'Extras And Sides',

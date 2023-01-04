@@ -87,7 +87,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf608',
 			body: 'Jollof With Spicy Wings',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/jollofspicywings.jpeg',
 			alt: 'Jollof With Spicy Wings',
 			price: '65.00',
 			category: 'Jollof Combos',
@@ -104,7 +105,7 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf610',
 			body: 'Shrimp Jollof',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image: 'https://www.errenskitchen.com/wp-content/uploads/2014/05/Easy-Paella-1-7.jpg',
 			alt: 'Shrimp Jollof',
 			price: '100.00',
 			category: 'Jollof Combos',
@@ -281,7 +282,7 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf628',
 			body: 'Plain Rice With Beef Kebab And Tomato Stew',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image: 'https://peacockrice.com.gh/wp-content/uploads/2021/08/Imagen-4.jpg',
 			alt: 'Plain Rice With Beef Kebab And Tomato Stew',
 			price: '65.00',
 			category: 'Other Rice Dishes',
@@ -289,7 +290,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf629',
 			body: 'Plain Rice With Goat Stew',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/plainricegoatstew.jpeg',
 			alt: 'Plain Rice With Goat Stew',
 			price: '59.00',
 			category: 'Other Rice Dishes',

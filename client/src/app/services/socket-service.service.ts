@@ -571,7 +571,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf661',
 			body: '1 Piece Grilled Chicken',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/grilledChicken.webp',
 			alt: '1 Piece Grilled Chicken',
 			price: '12.00',
 			category: 'Extras And Sides',
@@ -579,7 +580,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf662',
 			body: 'Calamari Only',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/calamari.jpeg',
 			alt: 'Calamari Only',
 			price: '85.00',
 			category: 'Extras And Sides',
@@ -587,7 +589,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf663',
 			body: '1 Portion Shrimp',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://foodsguy.com/wp-content/uploads/2021/11/How-Many-Pounds-Of-Shrimp-Per-Person.jpg',
 			alt: '1 Portion Shrimp',
 			price: '120.00',
 			category: 'Extras And Sides',
@@ -595,7 +598,7 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf664',
 			body: 'Suya/Kpakpo Snail',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image: 'https://i.ytimg.com/vi/b08DXm6wGWw/maxresdefault.jpg',
 			alt: 'Suya/Kpakpo Snail',
 			price: '150.00',
 			category: 'Extras And Sides',
@@ -603,7 +606,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf665',
 			body: 'Banku Only',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://img-global.cpcdn.com/recipes/9fe0fd84007c0094/680x482cq70/corn-meal-swallow-tuwon-masara-recipe-main-photo.jpg',
 			alt: 'Banku Only',
 			price: '7.00',
 			category: 'Extras And Sides',
@@ -611,7 +615,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf666',
 			body: 'Plain Rice Only',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://bigoven-res.cloudinary.com/image/upload/h_320,w_320,c_fill/plain-white-rice-f7391e.jpg',
 			alt: 'Plain Rice Only',
 			price: '28.00',
 			category: 'Extras And Sides',
@@ -619,7 +624,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf667',
 			body: 'Jollof Only',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://static.nationalgeographic.co.uk/files/styles/image_3200/public/makeperfectshutterstock1719057478exthr.webp?w=1450&h=816',
 			alt: 'Jollof Only',
 			price: '30.00',
 			category: 'Extras And Sides',
@@ -627,7 +633,7 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf668',
 			body: 'Waakye Only',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image: 'https://www.samuellaskitchen.com/wp-content/uploads/2020/11/SK-Waakye-2.jpg',
 			alt: 'Waakye Only',
 			price: '28.00',
 			category: 'Extras And Sides',
@@ -635,7 +641,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf669',
 			body: 'Fried Rice Only',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://www.samuellaskitchen.com/wp-content/uploads/2020/10/Veggie-Egg-Fried-Rice.jpg',
 			alt: 'Fried Rice Only',
 			price: '30.00',
 			category: 'Extras And Sides',
@@ -643,7 +650,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf670',
 			body: '(1 Portion) Pork Only',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://www.seriouseats.com/thmb/Q_rB2QaTmxcmtzfsw7b4Vf5w5W8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/20210508-lechon-kawali-melissa-hom-2-inchChunks-seriouseats-1d53c12cee234305b921362e2106bf29.jpg',
 			alt: '(1 Portion) Pork Only',
 			price: '50.00',
 			category: 'Extras And Sides',
@@ -651,7 +659,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf671',
 			body: '(1 Portion) Suya Goat Only',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://img-global.cpcdn.com/recipes/2b0f897ef9c1a211/1360x964cq70/fried-goat-meat-recipe-main-photo.webp',
 			alt: '(1 Portion) Suya Goat Only',
 			price: '50.00',
 			category: 'Extras And Sides',
@@ -659,7 +668,7 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf672',
 			body: 'Fish Kebab (1)',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image: 'https://www.licious.in/blog/wp-content/uploads/2020/12/Fish-Skewer-Kebabs.jpg',
 			alt: 'Fish Kebab (1)',
 			price: '15.00',
 			category: 'Extras And Sides',
@@ -667,7 +676,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf673',
 			body: 'Beef Kebab (1)',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://www.mygreekdish.com/wp-content/uploads/2021/02/Marinated-Greek-Beef-Souvlaki-Skewers-Beef-Kabobs-recipe-1-1536x1508.jpeg',
 			alt: 'Beef Kebab (1)',
 			price: '15.00',
 			category: 'Extras And Sides',
@@ -675,7 +685,7 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf674',
 			body: 'Chicken Kebab(1) Only',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image: 'https://cooktoria.com/wp-content/uploads/2016/05/easy-chicken-kebabs-square.jpg',
 			alt: 'Chicken Kebab(1) Only',
 			price: '20.00',
 			category: 'Extras And Sides',
@@ -683,7 +693,7 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf675',
 			body: 'Goat Kebab (1)',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image: 'https://biggbunnygh.com/wp-content/uploads/2020/08/goa.jpeg',
 			alt: 'Goat Kebab (1)',
 			price: '15.00',
 			category: 'Extras And Sides',

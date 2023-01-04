@@ -427,14 +427,6 @@ export class SocketService {
 			category: 'Banku Combo',
 		},
 		{
-			id: '91fcca31cba046fea468af2c659bcf650',
-			body: 'Check Check Loaded (Beef Fried Rice With Fried Chicken & Salad )',
-			image: 'https://grandeurcatering.com/wp-content/uploads/2022/03/20220312_173742-01.jpg',
-			alt: ' Check Check Loaded (Beef Fried Rice With Fried Chicken & Salad )',
-			price: '65.00',
-			category: 'Ghanaian Style',
-		},
-		{
 			id: '91fcca31cba046fea468af2c659bcf644',
 			body: 'Banku With Shrimps, Calamari & Grilled Pork',
 			image:
@@ -485,6 +477,15 @@ export class SocketService {
 			image: 'https://grandeurcatering.com/wp-content/uploads/2022/03/20220312_173742-01.jpg',
 			alt: 'Check Check Basic ( Fried Rice With Fried Chicken Salad )',
 			price: '50.00',
+			category: 'Ghanaian Style',
+		},
+		{
+			id: '91fcca31cba046fea468af2c659bcf650',
+			body: 'Check Check Loaded (Beef Fried Rice With Fried Chicken & Salad )',
+			image:
+				'https://grandeurcatering.com/wp-content/uploads/2022/04/WhatsApp-Image-2022-04-19-350x435.jpg',
+			alt: ' Check Check Loaded (Beef Fried Rice With Fried Chicken & Salad )',
+			price: '65.00',
 			category: 'Ghanaian Style',
 		},
 		{

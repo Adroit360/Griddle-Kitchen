@@ -52,7 +52,7 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf604',
 			body: 'Jollof Rice With Beef Kebab',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image: 'https://i.pinimg.com/564x/29/7e/40/297e40f207a4ab6d6eb36855b694a674.jpg',
 			alt: 'Jollof Rice With Beef Kebab',
 			price: '65.00',
 			category: 'Jollof Combos',
@@ -139,7 +139,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf612',
 			body: 'Beef Fried Rice',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://www.thecountrycook.net/wp-content/uploads/2022/01/thumbnail-Beef-Fried-Rice-scaled.jpg',
 			alt: 'Beef Fried Rice',
 			price: '75.00',
 			category: 'Fried Rice Combo',
@@ -192,7 +193,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf618',
 			body: 'Kpakpo Chicken Wings With Yam Chips',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://us.123rf.com/450wm/gbh007/gbh0071711/gbh007171100969/91018983-fried-chicken-wings-with-french-fries.jpg?ver=6',
 			alt: 'Kpakpo Chicken Wings With Yam Chips',
 			price: '65.00',
 			category: 'Yam Chips Combo',
@@ -200,7 +202,7 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf619',
 			body: 'Yam Chips With Charcoal Grilled Tilapia',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image: 'https://i.pinimg.com/564x/6b/4c/d0/6b4cd04f5e6aa262c5b3430c931777bc.jpg',
 			alt: 'Yam Chips With Charcoal Grilled Tilapia',
 			price: '85.00',
 			category: 'Yam Chips Combo',
@@ -226,7 +228,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf622',
 			body: 'Charcoal Grilled Pork',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://kristineskitchenblog.com/wp-content/uploads/2022/05/best-grilled-pork-chops-14.jpg',
 			alt: 'Charcoal Grilled Pork',
 			price: '65.00',
 			category: 'Yam Chips Combo',

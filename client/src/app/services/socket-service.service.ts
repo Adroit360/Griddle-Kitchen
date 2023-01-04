@@ -237,7 +237,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf623',
 			body: 'Yam Chips With Suya Snails',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://img-global.cpcdn.com/recipes/140085d652d54652/1360x964cq70/fried-yam-with-peppered-snail-recipe-main-photo.webp',
 			alt: 'Yam Chips With Suya Snails',
 			price: '150.00',
 			category: 'Yam Chips Combo',
@@ -245,7 +246,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf624',
 			body: 'Yam Chips With Fried Fish',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/yamchipswithfriedfish.jpeg',
 			alt: 'Yam Chips With Fried Fish',
 			price: '65.00',
 			category: 'Yam Chips Combo',
@@ -253,7 +255,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf625',
 			body: 'Plain Rice With Corned Beef & Egg Stew',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/plainRiceCornedbeef.jpeg',
 			alt: 'Plain Rice With Corned Beef & Egg Stew',
 			price: '60.00',
 			category: 'Other Rice Dishes',
@@ -261,15 +264,16 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf626',
 			body: 'Plain Rice With Sardine & Egg Stew',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image: 'https://i.ytimg.com/vi/YwYrkHKNzqo/mqdefault.jpg',
 			alt: 'Plain Rice With Sardine & Egg Stew',
 			price: '60.00',
 			category: 'Other Rice Dishes',
 		},
 		{
 			id: '91fcca31cba046fea468af2c659bcf627',
-			body: 'Plain Rice With Grilled Chicken & Tomatom Stew',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			body: 'Plain Rice With Grilled Chicken & Tomatoe Stew',
+			image:
+				'https://i0.wp.com/thebetteredblondie.com/wp-content/uploads/2018/10/IMG_9065.jpg?resize=1280%2C853&ssl=1',
 			alt: 'Plain Rice With Grilled Chicken & Tomatom Stew',
 			price: '60.00',
 			category: 'Other Rice Dishes',
@@ -320,7 +324,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf633',
 			body: 'Kenkey with Tsofi Only',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/kenkeyantosfi.jpeg',
 			alt: 'Kenkey with Tsofi Only',
 			price: '60.00',
 			category: 'Kenkey Corner',
@@ -337,7 +342,7 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf635',
 			body: 'Ga Kenkey Fried Eggs, Calamari, Shrimps, Fried Fish &Avocados',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image: 'https://i.pinimg.com/474x/44/4a/da/444ada7ec513f73a8605b5b5f3011857.jpg',
 			alt: 'Ga Kenkey Fried Eggs, Calamari, Shrimps, Fried Fish &Avocados',
 			price: '140.00',
 			category: 'Kenkey Corner',
@@ -354,7 +359,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf637',
 			body: 'Kenkey With Grilled Pork',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/kenkeyandgrilledpork.jpeg',
 			alt: 'Kenkey With Grilled Pork',
 			price: '65.00',
 			category: 'Kenkey Corner',
@@ -362,7 +368,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf680',
 			body: 'Kenkey With Grilled Chicken',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/kenkeywithchicken.jpeg',
 			alt: 'Kenkey With Grilled Chicken',
 			price: '55.00',
 			category: 'Kenkey Corner',

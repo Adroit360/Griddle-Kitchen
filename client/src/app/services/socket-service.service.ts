@@ -394,7 +394,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf640',
 			body: 'Banku With Assorted Meat Okro Soup',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/bankuwithassortedokro.webp',
 			alt: 'Banku With Assorted Meat Okro Soup',
 			price: '85.00',
 			category: 'Banku Combo',
@@ -435,7 +436,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf645',
 			body: 'Banku With Grilled Pork',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/bankuwithgrilledpork.jpeg',
 			alt: 'Banku With Grilled Pork',
 			price: '75.00',
 			category: 'Banku Combo',

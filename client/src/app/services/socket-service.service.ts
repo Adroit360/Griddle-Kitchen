@@ -379,7 +379,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf638',
 			body: 'Kenkey With Sardine, Corned Beef, Fried Egg, Fried Fish',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/kenkeywithsardine.jpeg',
 			alt: 'Kenkey With Sardine, Corned Beef, Fried Egg, Fried Fish',
 			price: '75.00',
 			category: 'kenkey Corner',

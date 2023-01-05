@@ -415,7 +415,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf642',
 			body: 'Banku With Tsofi (Turkey Tails), Fried Egg & Fried Fish',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/bankuwithtsofi.png',
 			alt: 'Banku With Tsofi (Turkey Tails), Fried Egg & Fried Fish',
 			price: '83.00',
 			category: 'Banku Combo',
@@ -423,7 +424,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf643',
 			body: 'Banku With Fried  Eggs, Calamari, Shrimps, Fried Fish & Avocados',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/bankueggshrimps.jpeg.png',
 			alt: 'Banku With Fried  Eggs, Calamari, Shrimps, Fried Fish & Avocados',
 			price: '150.00',
 			category: 'Banku Combo',

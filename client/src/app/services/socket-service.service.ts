@@ -406,7 +406,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf641',
 			body: 'Banku with Fried Fish & Fried Egg',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/bankufishSausage.png',
 			alt: 'Banku with Fried Fish & Fried Egg',
 			price: '50.00',
 			category: 'Banku Combo',

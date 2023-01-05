@@ -504,7 +504,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf652',
 			body: 'Waakye Loaded ( Fish, Eggs, Beef Stew, Wele, Gari, Spagetti, Stew )',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/waakyeloaded2.jpeg',
 			alt: 'Waakye Loaded ( Fish, Eggs, Beef Stew, Wele, Gari, Spagetti, Stew )',
 			price: '65.00',
 			category: 'Ghanaian Style',

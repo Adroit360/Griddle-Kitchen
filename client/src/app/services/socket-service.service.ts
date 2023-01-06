@@ -522,7 +522,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf654',
 			body: 'Red Red Basic FIsh',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/redredfish.png',
 			alt: 'Red Red Basic FIsh',
 			price: '50.00',
 			category: 'Ghanaian Style',
@@ -530,7 +531,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf655',
 			body: 'Red Red Loaded Egg & Fish Chicken',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/redredfishandchicken.png',
 			alt: 'Red Red Loaded Egg & Fish Chicken',
 			price: '50.00',
 			category: 'Ghanaian Style',
@@ -538,7 +540,8 @@ export class SocketService {
 		{
 			id: '91fcca31cba046fea468af2c659bcf656',
 			body: 'Red Red Loaded Egg & Fish Meat Pieces',
-			image: 'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/',
+			image:
+				'https://raw.githubusercontent.com/Adroit360/Griddle-Kitchen/main/menu-Images/redredfishmeatchicken.png',
 			alt: 'Red Red Loaded Egg & Fish Meat Pieces',
 			price: '60.00',
 			category: 'Ghanaian Style',
